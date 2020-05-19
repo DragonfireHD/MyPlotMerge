@@ -4,6 +4,7 @@ namespace MyPlot\subcommand;
 
 use MyPlot\MyPlot;
 use MyPlot\RandChest;
+use MyPlot\RandChest;
 use pocketmine\command\CommandSender;
 use pocketmine\command\PluginCommand;
 use pocketmine\Player;
